@@ -6,3 +6,5 @@
 6. e06_dns.py – Resolución DNS directa e inversa con tiempos.
 7. e07_latencia_tcp.py – Latencia y pérdida en 20 conexiones TCP.
 8. e08_https_certificado.py – Estado HTTPS y días hasta el vencimiento del certificado.
+
+requisitos previos: Python 3.14.7
